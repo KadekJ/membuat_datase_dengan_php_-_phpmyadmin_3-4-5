@@ -1,0 +1,9 @@
+# membuat_datase_dengan_php_-_phpmyadmin_3-4-5
+latihan 3
+![alt text](https://github.com/KadekJ/membuat_datase_dengan_php_-_phpmyadmin_3-4-5/blob/master/latihan_3.png)
+latihan 4
+![alt text](https://github.com/KadekJ/membuat_datase_dengan_php_-_phpmyadmin_3-4-5/blob/master/latihan_4.png)
+latihan 5
+![alt text](https://github.com/KadekJ/membuat_datase_dengan_php_-_phpmyadmin_3-4-5/blob/master/latihan_5.1.png)
+![alt text](https://github.com/KadekJ/membuat_datase_dengan_php_-_phpmyadmin_3-4-5/blob/master/latihan_5.2.png)
+![alt text](https://github.com/KadekJ/membuat_datase_dengan_php_-_phpmyadmin_3-4-5/blob/master/latihan_5.3.png)
